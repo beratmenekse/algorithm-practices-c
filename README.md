@@ -11,6 +11,7 @@ My goal is to improve my algorithmic thinking and understand low-level memory ma
 | File Name | Topic | Description |
 | :--- | :--- | :--- |
 | [`recursive_word_counter.c`](./recursive_word_counter.c) | **Recursion & Pointers** | Counts words in a string using recursive logic without loops. |
+| [`recursive_gcd.c`](./recursive_gcd.c) | **Recursion & Math** | Calculates Greatest Common Divisor (GCD) using Euclidean Algorithm. |
 | *Upcoming...* | *...* | *More algorithms will be added soon.* |
 
 ---
