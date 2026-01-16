@@ -13,6 +13,7 @@ My goal is to improve my algorithmic thinking and understand low-level memory ma
 | [`recursive_word_counter.c`](./recursive_word_counter.c) | **Recursion & Pointers** | Counts words in a string using recursive logic without loops. |
 | [`recursive_gcd.c`](./recursive_gcd.c) | **Recursion & Math** | Calculates Greatest Common Divisor (GCD) using Euclidean Algorithm. |
 | [`pointer_reverse_array.c`](./pointer_reverse_array.c) | **Pointers & Arrays** | Reverses an array in-place using pointer arithmetic. |
+| [`sort_binary_search.c`](./sort_binary_search.c) | **Algorithms** | Implements standard Bubble Sort and Recursive Binary Search. |
 | *Upcoming...* | *...* | *More algorithms will be added soon.* |
 
 ---
