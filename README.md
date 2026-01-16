@@ -19,8 +19,12 @@ My goal is to improve my algorithmic thinking and understand low-level memory ma
 ---
 
 ## ⚙️ How to Run
-You can compile any file in this repository using `gcc`. For example:
+
+You can compile any file in this repository using `gcc`. 
+Simply replace `filename.c` with the file you want to run.
+
+Example:
 
 ```bash
-gcc recursive_word_counter.c -o counter
-./counter
+gcc sort_binary_search.c -o myProgram
+./myProgram
